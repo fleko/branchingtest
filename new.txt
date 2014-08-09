@@ -3,3 +3,7 @@ new text file on main branch.
 Added on second commit in main branch
 
 Added on hotfix
+
+Added on first commit in new branch
+
+Added on third commit in new branch
