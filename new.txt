@@ -7,3 +7,7 @@ Added on hotfix
 Added on first commit in new branch
 
 Added on third commit in new branch
+
+
+
+Added to master
